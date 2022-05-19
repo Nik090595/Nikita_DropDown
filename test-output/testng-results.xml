@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="13" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-23T10:57:39 IST" name="Regression" finished-at="2022-04-23T10:58:26 IST" duration-ms="47931">
+    <groups>
+    </groups>
+    <test started-at="2022-04-23T10:57:39 IST" name="Zerodha" finished-at="2022-04-23T10:58:08 IST" duration-ms="28983">
+      <class name="com.Zerodha.Test_1">
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Zerodha.Test_1@101952da]" started-at="2022-04-23T10:57:39 IST" name="beforemethod" finished-at="2022-04-23T10:57:47 IST" duration-ms="8570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Test1(int,int,java.lang.String)[pri:0, instance:com.Zerodha.Test_1@101952da]" started-at="2022-04-23T10:57:47 IST" name="Test1" finished-at="2022-04-23T10:57:47 IST" duration-ms="20" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[40]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Velocity]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Zerodha.Test_1@101952da]" started-at="2022-04-23T10:57:47 IST" name="aftermethod" finished-at="2022-04-23T10:57:48 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Zerodha.Test_1@101952da]" started-at="2022-04-23T10:57:48 IST" name="beforemethod" finished-at="2022-04-23T10:57:52 IST" duration-ms="4814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Test3(java.lang.String,java.lang.String)[pri:0, instance:com.Zerodha.Test_1@101952da]" started-at="2022-04-23T10:57:52 IST" name="Test3" data-provider="TestData" finished-at="2022-04-23T10:57:52 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Velocity]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Zerodha.Test_1@101952da]" started-at="2022-04-23T10:57:52 IST" name="aftermethod" finished-at="2022-04-23T10:57:53 IST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Zerodha.Test_1@101952da]" started-at="2022-04-23T10:57:53 IST" name="beforemethod" finished-at="2022-04-23T10:57:57 IST" duration-ms="4732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Test3(java.lang.String,java.lang.String)[pri:0, instance:com.Zerodha.Test_1@101952da]" started-at="2022-04-23T10:57:57 IST" name="Test3" data-provider="TestData" finished-at="2022-04-23T10:57:57 IST" duration-ms="20" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kataraj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Zerodha.Test_1@101952da]" started-at="2022-04-23T10:57:57 IST" name="aftermethod" finished-at="2022-04-23T10:57:58 IST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Zerodha.Test_1@101952da]" started-at="2022-04-23T10:57:58 IST" name="beforemethod" finished-at="2022-04-23T10:58:07 IST" duration-ms="9576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Test3(java.lang.String,java.lang.String)[pri:0, instance:com.Zerodha.Test_1@101952da]" started-at="2022-04-23T10:58:07 IST" name="Test3" data-provider="TestData" finished-at="2022-04-23T10:58:07 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Maharashtra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Zerodha.Test_1@101952da]" started-at="2022-04-23T10:58:07 IST" name="aftermethod" finished-at="2022-04-23T10:58:07 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- com.Zerodha.Test_1 -->
+      <class name="com.Zerodha.Test_2">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.Zerodha.Test_2@22ef9844]" started-at="2022-04-23T10:58:07 IST" name="beforeclass" finished-at="2022-04-23T10:58:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Zerodha.Test_2@22ef9844]" started-at="2022-04-23T10:58:07 IST" name="beforemethod" finished-at="2022-04-23T10:58:07 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="testng()[pri:0, instance:com.Zerodha.Test_2@22ef9844]" started-at="2022-04-23T10:58:07 IST" name="testng" finished-at="2022-04-23T10:58:07 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testng -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Zerodha.Test_2@22ef9844]" started-at="2022-04-23T10:58:07 IST" name="aftermethod" finished-at="2022-04-23T10:58:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Zerodha.Test_2@22ef9844]" started-at="2022-04-23T10:58:07 IST" name="beforemethod" finished-at="2022-04-23T10:58:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Test12(int,int)[pri:0, instance:com.Zerodha.Test_2@22ef9844]" started-at="2022-04-23T10:58:07 IST" name="Test12" data-provider="TestData" finished-at="2022-04-23T10:58:07 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test12 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Zerodha.Test_2@22ef9844]" started-at="2022-04-23T10:58:07 IST" name="aftermethod" finished-at="2022-04-23T10:58:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Zerodha.Test_2@22ef9844]" started-at="2022-04-23T10:58:07 IST" name="beforemethod" finished-at="2022-04-23T10:58:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Test12(int,int)[pri:0, instance:com.Zerodha.Test_2@22ef9844]" started-at="2022-04-23T10:58:07 IST" name="Test12" data-provider="TestData" finished-at="2022-04-23T10:58:08 IST" duration-ms="30" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test12 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Zerodha.Test_2@22ef9844]" started-at="2022-04-23T10:58:08 IST" name="aftermethod" finished-at="2022-04-23T10:58:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.Zerodha.Test_2@22ef9844]" started-at="2022-04-23T10:58:08 IST" name="beforemethod" finished-at="2022-04-23T10:58:08 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="Test12(int,int)[pri:0, instance:com.Zerodha.Test_2@22ef9844]" started-at="2022-04-23T10:58:08 IST" name="Test12" data-provider="TestData" finished-at="2022-04-23T10:58:08 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test12 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.Zerodha.Test_2@22ef9844]" started-at="2022-04-23T10:58:08 IST" name="aftermethod" finished-at="2022-04-23T10:58:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:com.Zerodha.Test_2@22ef9844]" started-at="2022-04-23T10:58:08 IST" name="afterclass" finished-at="2022-04-23T10:58:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- com.Zerodha.Test_2 -->
+    </test> <!-- Zerodha -->
+    <test started-at="2022-04-23T10:58:08 IST" name="Dashboard" finished-at="2022-04-23T10:58:26 IST" duration-ms="18704">
+      <class name="com.Practice.DP_Test_1">
+        <test-method is-config="true" signature="beforemethodCode()[pri:0, instance:com.Practice.DP_Test_1@957e06]" started-at="2022-04-23T10:58:08 IST" name="beforemethodCode" finished-at="2022-04-23T10:58:13 IST" duration-ms="5129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodCode -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Practice.DP_Test_1@957e06]" started-at="2022-04-23T10:58:13 IST" name="LoginData" data-provider="login" finished-at="2022-04-23T10:58:14 IST" duration-ms="1425" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kiran@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[JavaByKiran | Dashboard]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="aftermethodCode()[pri:0, instance:com.Practice.DP_Test_1@957e06]" started-at="2022-04-23T10:58:14 IST" name="aftermethodCode" finished-at="2022-04-23T10:58:15 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethodCode -->
+        <test-method is-config="true" signature="beforemethodCode()[pri:0, instance:com.Practice.DP_Test_1@957e06]" started-at="2022-04-23T10:58:15 IST" name="beforemethodCode" finished-at="2022-04-23T10:58:20 IST" duration-ms="5417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodCode -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Practice.DP_Test_1@957e06]" started-at="2022-04-23T10:58:20 IST" name="LoginData" data-provider="login" finished-at="2022-04-23T10:58:20 IST" duration-ms="493" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nikita@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[456789]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[JavaByKiran | Log in]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="aftermethodCode()[pri:0, instance:com.Practice.DP_Test_1@957e06]" started-at="2022-04-23T10:58:20 IST" name="aftermethodCode" finished-at="2022-04-23T10:58:21 IST" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethodCode -->
+        <test-method is-config="true" signature="beforemethodCode()[pri:0, instance:com.Practice.DP_Test_1@957e06]" started-at="2022-04-23T10:58:21 IST" name="beforemethodCode" finished-at="2022-04-23T10:58:26 IST" duration-ms="4764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodCode -->
+        <test-method signature="LoginData(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Practice.DP_Test_1@957e06]" started-at="2022-04-23T10:58:26 IST" name="LoginData" data-provider="login" finished-at="2022-04-23T10:58:26 IST" duration-ms="546" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amol@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcdef]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[JavaByKiran | Log in]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method is-config="true" signature="aftermethodCode()[pri:0, instance:com.Practice.DP_Test_1@957e06]" started-at="2022-04-23T10:58:26 IST" name="aftermethodCode" finished-at="2022-04-23T10:58:26 IST" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethodCode -->
+      </class> <!-- com.Practice.DP_Test_1 -->
+    </test> <!-- Dashboard -->
+  </suite> <!-- Regression -->
+</testng-results>

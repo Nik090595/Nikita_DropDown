@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+<parameter name="a" value ="10"></parameter>
+<parameter name="b" value ="40"></parameter>
+<parameter name="c" value ="Velocity"></parameter>
+  <test thread-count="5" name="Zerodha">
+    <classes>
+      <class name="com.Zerodha.Test_1">
+         <methods>
+            <include name="Test1"></include> 
+             <include name="Test3"></include> 
+         </methods>
+      </class>
+      <class name="com.Zerodha.Test_2">
+         <methods>
+            <include name="testng"></include>
+            <include name="Test12"></include> 
+         </methods> 
+        </class>      
+    </classes>
+    </test> <!-- Test -->
+    <test thread-count="5" name="Dashboard">
+    <classes>
+      <class name="com.Practice.DP_Test_1">
+         <methods>
+            <include name="LoginData"></include> 
+         </methods>
+      </class>   
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
